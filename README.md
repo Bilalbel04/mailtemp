@@ -4,4 +4,4 @@ Obten un correo temporal aleatorio desde Mail.tm y monitorea su bandeja de entra
 
 # Para poder hacerlo funcionar, debemos seguir los siguientes pasos. 
 
-[h]
+-- hola
